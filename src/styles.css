@@ -1,3 +1,5 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
 *,
 *::after,
 *::before {
@@ -10,8 +12,5 @@ body {
   position: relative;
   width: 100%;
   background-color: #292929;
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
   min-height: 100vh;
 }
